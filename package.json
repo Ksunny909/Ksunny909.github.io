@@ -1,0 +1,23 @@
+{
+  "name": "Ksunny909.github.io",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/Ksunny909/Ksunny909.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ksunny909/Ksunny909.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ksunny909/Ksunny909.github.io/issues"
+  },
+  "homepage": "https://github.com/Ksunny909/Ksunny909.github.io#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
