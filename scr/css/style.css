@@ -725,7 +725,7 @@ body {
 }
 
 .offer {
-  background: url("../img/offer/1offer-bg.png") no-repeat;
+  background: url("../img/offer/1offer-bg.JPEG") no-repeat;
   background-position: center right;
   background-size: contain;
   position: relative;
@@ -1031,7 +1031,7 @@ body {
 }
 
 .brif {
-  background-image: url("../img/brif/brif-color.png"), url("../img/brif/6604524c325e3b2c.jpg");
+  background-image: url("../img/brif/brif-color.JPEG"), url("../img/brif/6604524c325e3b2c.JPEG");
   background-position: left center, center right;
   background-size: 50%, contain;
   background-repeat: repeat-y, no-repeat;
@@ -1168,7 +1168,7 @@ body {
 
 @media (max-width: 768px) {
   .brif {
-    background-image: url("../img/brif/brif-color.png"), url("../img/brif/6604524c325e3b2c.jpg");
+    background-image: url("../img/brif/brif-color.JPEG"), url("../img/brif/6604524c325e3b2c.jpg");
     background-position: top center, center bottom;
     background-size: 100% 50%, cover;
     background-repeat: repeat-x, no-repeat;
