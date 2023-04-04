@@ -680,7 +680,7 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  border-radius: 60%;
+  border-radius: 100%;
   margin-right: 30px;
 }
 
@@ -1031,7 +1031,7 @@ body {
 }
 
 .brif {
-  background-image: url("../img/brif/brif-color.JPEG"), url("../img/brif/6604524c325e3b2c.JPEG");
+  background-image: url("../img/brif/brif-color.jpg"), url("../img/brif/6604524c325e3b2c.jpg");
   background-position: left center, center right;
   background-size: 50%, contain;
   background-repeat: repeat-y, no-repeat;
@@ -1168,7 +1168,7 @@ body {
 
 @media (max-width: 768px) {
   .brif {
-    background-image: url("../img/brif/brif-color.JPEG"), url("../img/brif/6604524c325e3b2c.jpg");
+    background-image: url("../img/brif/brif-color.jpg"), url("../img/brif/6604524c325e3b2c.jpg");
     background-position: top center, center bottom;
     background-size: 100% 50%, cover;
     background-repeat: repeat-x, no-repeat;
